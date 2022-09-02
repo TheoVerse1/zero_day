@@ -1,2 +1,2 @@
-#README ONCE
-**Important**
+#Vagrant Readme
+** Mandatory in projects **
